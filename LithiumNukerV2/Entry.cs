@@ -101,7 +101,7 @@ namespace LithiumNukerV2
 				Author = new Core.StartupAuthorProperties
 				{
 					Url = "verlox.cc, russianheavy.xyz & discord.gg/WjT4ASqcra",
-					Name = "verlox, russian heavy & ItzYaBoiHeck#8569"
+					Name = "verlox, vividsec & ItzYaBoiHeck#8569"
 				},
 				Title = new Core.StartupConsoleTitleProperties
 				{

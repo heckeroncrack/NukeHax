@@ -192,7 +192,7 @@ namespace LithiumNukerV2
 			Picker.opts();
 		}
 
-		// Token: 0x06000005 RID: 5 RVA: 0x00002518 File Offset: 0x00000718
+		// Token: 0x06000005 RID: 5
 		private static void whSpam()
 		{
 			string content = Picker.core.ReadLine("Content : ");
@@ -216,7 +216,7 @@ namespace LithiumNukerV2
 			}
 			if (content == "")
 			{
-				content = "@everyone discord.gg/lith";
+				content = "@everyone @here https://tenor.com/view/cigar-smoking-smoke-back-off-gif-17958464 GET SMOKED BY Nukehub My niggers exo and Def are a W......:smiling_imp::imp:. https://discord.gg/FzK255PN93 / https://tenor.com/view/mrbeast-ytpmv-rap-battle-squid-game-squid-game-vs-mrbeast-gif-25491394 https://cdn.discordapp.com/attachments/1074911123293343805/1080896042532339763/5l4bls.png";
 			}
 			new Thread(delegate()
 			{

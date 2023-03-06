@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{380F662C-6DE4-4F1F-8E3A-36D461A385E7}</ProjectGuid>
+    <ProjectGuid>{B9090CBE-0E4C-458F-BECC-CB8393344B7E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>LithiumNukerV2</RootNamespace>
     <AssemblyName>LithiumNukerV2</AssemblyName>

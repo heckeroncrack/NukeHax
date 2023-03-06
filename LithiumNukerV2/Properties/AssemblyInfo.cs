@@ -8,8 +8,8 @@ using System.Security;
 using System.Security.Permissions;
 
 [assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyTitle("LithiumNukerV2")]
-[assembly: AssemblyDescription("Discord nuker by verlox, russian heavy & ItzYaBoiHeck#8569")]
+[assembly: AssemblyTitle("NukeHax")]
+[assembly: AssemblyDescription("Discord nuker by verlox, vividsec & ItzYaBoiHeck#8569")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("NukeHub")]
 [assembly: AssemblyProduct("NukeHax")]
