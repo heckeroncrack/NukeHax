@@ -8,7 +8,7 @@ namespace LithiumNukerV2
 	// Token: 0x02000009 RID: 9
 	internal class Entry
 	{
-		// Token: 0x0600001B RID: 27 RVA: 0x000029B4 File Offset: 0x00000BB4
+		// Token: 0x0600001B RID: 27
 		private static void parseArgs(string[] args)
 		{
 			for (int i = 0; i < args.Length; i++)
@@ -88,12 +88,14 @@ namespace LithiumNukerV2
 			}
 		}
 
-		// Token: 0x0600001C RID: 28 RVA: 0x00002B38 File Offset: 0x00000D38
+		// Token: 0x0600001C RID: 28
 		private static void Main(string[] args)
 		{
+			string i = "https://raw.githubusercontent.com/heckeroncrack/NukeHax/master/themotd.txt";
+			string wD = new WebClient().DownloadString(i);
 			Core.StartupProperties startProperties = new Core.StartupProperties
 			{
-				MOTD = "Lith was discontinued, so I fucked verlox's ass. UNLEASH HELL MY NIGGERS.",
+				MOTD = wD,
 				ColorRotation = 260,
 				SilentStart = true,
 				LogoString = Settings.Logo,
@@ -105,7 +107,7 @@ namespace LithiumNukerV2
 				},
 				Title = new Core.StartupConsoleTitleProperties
 				{
-					Text = "NukeHax"
+					Text = "NKHX"
 				}
 			};
 			Entry.core.Start(startProperties);

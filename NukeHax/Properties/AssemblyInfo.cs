@@ -7,7 +7,7 @@ using System.Runtime.Versioning;
 using System.Security;
 using System.Security.Permissions;
 
-[assembly: AssemblyVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.0.1.0")]
 [assembly: AssemblyTitle("NukeHax")]
 [assembly: AssemblyDescription("Discord nuker by verlox, vividsec & ItzYaBoiHeck#8569")]
 [assembly: AssemblyConfiguration("")]

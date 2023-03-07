@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{074E66D6-6C4E-4E36-A51E-C0D37764BDAC}</ProjectGuid>
+    <ProjectGuid>{6C191181-59D6-45E0-8ACF-AEAC987EA25E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>LithiumNukerV2</RootNamespace>
     <AssemblyName>NukeHax</AssemblyName>
@@ -58,7 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="NukeHax.csproj">
-      <Project>{074e66d6-6c4e-4e36-a51e-c0d37764bdac}</Project>
+      <Project>{6c191181-59d6-45e0-8acf-aeac987ea25e}</Project>
       <Name>NukeHax</Name>
     </ProjectReference>
   </ItemGroup>
