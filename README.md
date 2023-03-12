@@ -1,13 +1,4 @@
-<div align="center">
+# DISCONTINUED! Read below.
 
-# DISCLAIMER!
-
-![NukeHax](https://discord.gg/WjT4ASqcra) Is A Fork of the now discontinued ![Lithium Nuker](https://github.com/verlox/Lithium-Nuker-2), but still a different project.
-
-# here's some shitpost ig
-
-didn't change the solution name cus it doesn't matter.
-
-Suck my COCK verlox.
-
-all rights served ig lmao
+Hiya, due to recent "drama" nukehax V1 will be discontinued. I'm looking forward to learning rust and creating V2.
+Join the ![Discord](https://discord.gg/zGbwyp3q97).
